@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Moinak Dey</h1>
+<h1 align="center">Hi👋,I'm Moinak Dey</h1>
 <h3 align="center">An AI researcher and a frontend and backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spaceexplorer06&label=Profile%20views&color=0e75b6&style=flat" alt="spaceexplorer06" /> </p>
@@ -38,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spaceexplorer06&show_icons=true&locale=en" alt="spaceexplorer06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spaceexplorer06&" alt="spaceexplorer06" /></p>
-
